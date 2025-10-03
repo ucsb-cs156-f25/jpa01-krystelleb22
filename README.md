@@ -1,5 +1,5 @@
 # jpa01-krystelleb22
-Deployed at: http://jpa01-krystelleb22.dokku-08.cs.ucsb.edu
+Deployed at: https://jpa01-krystelleb22.dokku-08.cs.ucsb.edu
 
 
 # About this repo
